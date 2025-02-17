@@ -1,7 +1,4 @@
 # Hi, I am Suin Kim 👾
-## Frontend Developer and UI/UX Designer
-
-I am dedicated to delivering engaging and accessible web solutions. I aim to create meaningful digital experiences that resonate with users.
 
 * 🌍  Vancouver, BC
 * 🖥️  My portfolio: [sulnklm.com](http://sulnklm.com)
