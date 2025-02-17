@@ -1,4 +1,4 @@
-# Hi, I am Suin Kim 👾
+# Hi, I'm Suin Kim 👩🏻‍💻
 
 * 🌍  Vancouver, BC
 * 🖥️  My portfolio: [sulnklm.com](http://sulnklm.com)
