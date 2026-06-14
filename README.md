@@ -1,7 +1,6 @@
 # Hi, I'm Suin Kim 👩🏻‍💻
 
 * 🌍  Vancouver, BC
-* 🖥️  My portfolio: [sulnklm.com](http://sulnklm.com)
 * ✉️  Contact me at [suink2005@gmail.com](mailto:suink2005@gmail.com)
 
 ### Development
