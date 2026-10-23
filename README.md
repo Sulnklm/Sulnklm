@@ -1,4 +1,4 @@
-# Hi, I'm Suin Kim 👩🏻‍💻
+# Hi, I'm Suin
 
 * 🌍  Vancouver, BC
 * ✉️  Contact me at [suink2005@gmail.com](mailto:suink2005@gmail.com)
